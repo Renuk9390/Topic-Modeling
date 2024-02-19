@@ -1,5 +1,9 @@
 
 This GitHub repository contains the data and code associated with the paper titled **"Decoding Health Informatics Patents: Investigating Topic Models for Patent Information Retrieval."**
+For any queries, please reach out to:
+
+RenukSwamy Chikkamath  
+Email: [renukswamy.chikkamath@hm.edu](mailto:renukswamy.chikkamath@hm.edu)
 
 ## Abstract
 
