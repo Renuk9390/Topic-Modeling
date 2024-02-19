@@ -1,0 +1,1 @@
+### This repository contains data and code relating to paper "Decoding Health Informatics Patents:Investigating Topic Models for PatentInformation Retrieval"
