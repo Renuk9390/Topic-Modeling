@@ -1,5 +1,5 @@
 
-This GitHub repository contains the data and code associated with the paper titled "Decoding Health Informatics Patents: Investigating Topic Models for Patent Information Retrieval."
+This GitHub repository contains the data and code associated with the paper titled **"Decoding Health Informatics Patents: Investigating Topic Models for Patent Information Retrieval."**
 
 ## Abstract
 
@@ -11,6 +11,9 @@ Supervised large language models often struggle to provide transparency in ident
 3. Emphasize the critical importance of streamlining the search process, focusing initially on pertinent groups or sets before narrowing down to a smaller initial document set for subsequent prior art retrieval.
 
 The data, spanning over 70 years of G16H patents, and the corresponding code related to this work are made public to promote further research in this direction.
+
+**Additional Explanations of Paper**
+1. In light of the interdisciplinary nature encompassing informatics, communication, technology, and the medical domain, the G16H patent category emerges as the optimal dataset for exploring complexities in handling intricate patent data. Thus, our choice to focus on G16H patents is driven by the diverse and relevant landscape it represents.
 
 ## Dataset
 
